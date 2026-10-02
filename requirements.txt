@@ -1,0 +1,7 @@
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+pypdfium2>=4.30.0
+Pillow>=10.2.0
+requests>=2.31.0
+aiofiles>=23.2.1
+python-dotenv>=1.0.0
