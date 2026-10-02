@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+workspace/
+*.mp4
+*.webm
+*.pdf
+doc_cache/
